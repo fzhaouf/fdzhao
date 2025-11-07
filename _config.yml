@@ -7,9 +7,9 @@
 # server process.
 
 # --- AcademicPages theme setup ---
-remote_theme: academicpages/academicpages.github.io
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
 # ---------------------------------
 
 # Basic Site Settings
